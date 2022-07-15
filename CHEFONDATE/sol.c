@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main_() {
+int main_chefondate() {
     int t = 0;
     int x, y = 0;
     scanf("%d", &t);

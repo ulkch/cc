@@ -7,4 +7,6 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(cc
         CHEFONDATE/sol.c
-        CHEFONDATE/sol.cpp)
+        CHEFONDATE/sol.cpp
+        AUCTION/sol.c
+        AUCTION/sol.cpp)
