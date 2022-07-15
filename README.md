@@ -1,1 +1,1 @@
-# cc
+# codechef.com
